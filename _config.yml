@@ -1,0 +1,6 @@
+title: Tom Davidson
+description: AI Strategy Researcher | Forethought 
+
+remote_theme: pages-themes/primer
+plugins:
+  - jekyll-remote-theme
