@@ -8,7 +8,7 @@ Recently, I've focussed on two main themes:
 
 I've previously worked at [Open Philanthropy](https://www.openphilanthropy.org/) and the UK's [AI Security Institute](https://www.aisi.gov.uk/). 
 
-I'm on X, [@TomDavidsonX](https://x.com/TomDavidsonX?t=Zl68rhZo3oSvu6VzhI6sLg&s=09)
+I'm on X, [@TomDavidsonX](https://x.com/TomDavidsonX?t=Zl68rhZo3oSvu6VzhI6sLg&s=09).
 
 # Research top picks
 **AI-enabled human coups**
