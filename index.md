@@ -25,6 +25,7 @@ I'm on X, [@TomDavidsonX](https://x.com/TomDavidsonX?t=Zl68rhZo3oSvu6VzhI6sLg&s=
 
 **Economics**
 - [Could advanced AI drive explosive economic growth?](https://www.openphilanthropy.org/research/could-advanced-ai-drive-explosive-economic-growth/)
+- [The Industrial Explosion](https://www.lesswrong.com/posts/Na2CBmNY7otypEmto/the-industrial-explosion)
 - [What are the social returns globally to spending on R&D?](https://www.openphilanthropy.org/research/social-returns-to-productivity-growth/)
 
 
